@@ -6,4 +6,10 @@ Le projet a été démarré le 16/11/2023 et a pour objectif d'apprendre à util
 
 ## Nouveauté
 
-Un fichier index.js a été créé et contient notre première fonction !
+Un fichier index.js a été créé et contient notre première fonction ! ! !
+
+<<<<<<< HEAD
+YEAAAAAAAH
+=======
+YEAAAAAAAH ohymi04
+>>>>>>> feat/hello-world
